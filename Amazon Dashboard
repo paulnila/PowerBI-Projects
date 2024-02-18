@@ -1,0 +1,15 @@
+Here are some highlights of the features and functions I integrated:
+
+-- Ensured data accuracy and reliability by leveraging Power Query for efficient cleaning and transformation.
+
+-- Implemented a user-friendly page navigator, enhancing the overall user experience for effortless exploration.
+
+-- Introduced new slicer and card visuals for a more intuitive and interactive dashboard.
+
+-- Integrated images to enhance data visualization, making the dashboard not only informative but visually engaging as well.
+
+-- Leveraged DAX expressions, including 'SUMMARIZE', 'CONTAINSSTRING' and 'SELECTEDVALUE,' for complex calculations and deriving valuable insights.
+
+-- Created a dynamic datatable that doubles as a slicer, offering users more control over their data exploration.
+
+-- Implemented tooltips for a more user-friendly experience, providing additional context and information where needed. 
